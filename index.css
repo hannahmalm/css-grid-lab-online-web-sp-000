@@ -25,7 +25,7 @@ body {
 .bigItem {
  grid-area: footer-start / 1 / footer-end / 4;
  height: 50%;
- width::50%;
+ width:50%;
  justify-self: center;
  align-self: center;
 }
